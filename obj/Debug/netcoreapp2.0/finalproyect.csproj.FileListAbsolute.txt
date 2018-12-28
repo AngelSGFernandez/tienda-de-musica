@@ -1,0 +1,10 @@
+/home/angel/progra-web-final-project/obj/Debug/netcoreapp2.0/finalproyect.csproj.CoreCompileInputs.cache
+/home/angel/progra-web-final-project/obj/Debug/netcoreapp2.0/finalproyect.AssemblyInfoInputs.cache
+/home/angel/progra-web-final-project/obj/Debug/netcoreapp2.0/finalproyect.AssemblyInfo.cs
+/home/angel/progra-web-final-project/bin/Debug/netcoreapp2.0/finalproyect.deps.json
+/home/angel/progra-web-final-project/bin/Debug/netcoreapp2.0/finalproyect.runtimeconfig.json
+/home/angel/progra-web-final-project/bin/Debug/netcoreapp2.0/finalproyect.runtimeconfig.dev.json
+/home/angel/progra-web-final-project/bin/Debug/netcoreapp2.0/finalproyect.dll
+/home/angel/progra-web-final-project/bin/Debug/netcoreapp2.0/finalproyect.pdb
+/home/angel/progra-web-final-project/obj/Debug/netcoreapp2.0/finalproyect.dll
+/home/angel/progra-web-final-project/obj/Debug/netcoreapp2.0/finalproyect.pdb

@@ -1,0 +1,39 @@
+@page
+@model CreateMusicModel
+@{
+    ViewData["Title"] = "Manage Music";
+}
+
+<div class="row">
+    <div class="col-lg-3"></div>
+    <div class="col-lg-6"></div>
+    <h1>
+        @Model.Message
+    </h1>
+    <form method="POST">
+        <fieldset>
+            <div class="form-group">
+                <label  for="inputName">Nombre de la cancion</label>
+                <input type="text" class="form-control" id="inputName" name="inputName" placeholder="Nombre de la cancion">
+            </div>
+            <div class="form-group">
+                <label  for="inputName">Nombre del Album</label>
+                <input type="text" class="form-control" id="inputAlbum" name="inputAlbum" placeholder="Nombre del Album">
+            </div>
+            <div class="form-group">
+                <label  for="inputName">Genero</label>
+                <input type="text" class="form-control" id="inputGenre" name="inputGenre" placeholder="Genero">
+            </div>
+            <div class="form-group">
+                <label  for="inputName">Nombre del Artista</label>
+                <input type="text" class="form-control" id="inputArtist" name="inputArtist" placeholder="Nombre del Artista">
+            </div>
+            <div class="form-group">
+                <label  for="inputName">Año</label>
+                <input type="text" class="form-control" id="inputYear" name="inputYear" placeholder="Año">
+            </div>
+        </fieldset>
+        <button class="btn btn-primary" type="sumit">Crear Musica</button>
+    </form>
+    <div class="col-lg-3"></div>
+</div>
